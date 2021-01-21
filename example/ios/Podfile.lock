@@ -1,16 +1,16 @@
 PODS:
   - Flutter (1.0.0)
-  - google_places_picker (0.0.3):
+  - google_places_picker (0.0.1):
     - Flutter
-    - GoogleMaps (~> 4.0)
-    - GooglePlaces (~> 4.0)
-  - GoogleMaps (4.0.0):
-    - GoogleMaps/Maps (= 4.0.0)
-  - GoogleMaps/Base (4.0.0)
-  - GoogleMaps/Maps (4.0.0):
+    - GoogleMaps (~> 3.10)
+    - GooglePlaces (~> 3.10)
+  - GoogleMaps (3.10.0):
+    - GoogleMaps/Maps (= 3.10.0)
+  - GoogleMaps/Base (3.10.0)
+  - GoogleMaps/Maps (3.10.0):
     - GoogleMaps/Base
-  - GooglePlaces (4.0.0):
-    - GoogleMaps/Base (= 4.0.0)
+  - GooglePlaces (3.10.0):
+    - GoogleMaps/Base (= 3.10.0)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
@@ -29,9 +29,9 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
-  google_places_picker: 4f2ded90ced29db50ef52672fc3a54b11e4f8fc7
-  GoogleMaps: b7f7fc569a9b354a3af0d9729dbec40957b7d41e
-  GooglePlaces: ca8d4aba09ba79e0a829cf1dca03a41de6a09016
+  google_places_picker: dee1165fa5adbc7e0b896106cc17c4bb3db05fca
+  GoogleMaps: 8c080862ff2748ece9929471b30feb56a6c5079d
+  GooglePlaces: 9a6f5f3a0c88da2aa1bf7426a65d3e004f5e69a1
 
 PODFILE CHECKSUM: 8e679eca47255a8ca8067c4c67aab20e64cb974d
 
